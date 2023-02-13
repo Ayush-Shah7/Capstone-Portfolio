@@ -1,0 +1,54 @@
+{
+    "education": [
+        {
+            "company": "LPU",
+            "link": "https://www.lpu.in/",
+            "title": "B.tech",
+            "duration": "Aug 2020 - Present",
+            "desc": [
+                "Lovely Professional University (LPU) is a private university located in Chaheru, Phagwara, Punjab, India. The university was established in 2005 by Lovely International Trust, under The Lovely Professional University Act, 2005 (Punjab Act 25 of 2005) and started operation in 2006.",
+                "The university campus is spread over 600 acres.",
+                "The university is governed by chancellor Ashok Kumar Mittal. The administration and operations are governed by pro-chancellor of the institution Rashmi Mittal. Preeti Bajaj is the vice-chancellor of the university."
+            ]
+        },
+        {
+            "company": "Nucleus",
+            "link": "https://www.nucleuseducare.com/",
+            "title": "High School",
+            "duration": "March 2018 - March 2020",
+            "desc": [
+                "I prepared for my IIT from Nucleus which is one of the finest educational institutions famous for its quality education.",
+                " The name of Nucleus is known to every student, teacher and individual related to academics directly or indirectly for a noble cause"
+            ]
+        },
+        {
+            "company": "DPS Kathua",
+            "link": "http://www.dpskathua.com/",
+            "title": "Secondary School",
+            "duration": "Aug 2011-March 2018",
+            "desc": [
+                " Clean and well-organized school premises that are conducive to learning.",
+                " A good school will maintain hygiene and have a comfortable setting for students to be able to develop their skills and grasp knowledge.",
+                " Delhi Public School is one of the top schools in Kathua and is known for its green, safe, spacious, and well-organized infrastructure to ensure effective space for proper child learning and growth."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Guess Word Game",
+            "image": "./images/project_1.png",
+            "desc": "Guess Word game is a word guessing game that tasks the player with correctly selecting a random any-letter word. You only get eight tries to guess the word, but the game will give you hints along the way. You'll start out by randomly guessing any word.",
+            "skills": ["React", "Javascript", "CSS"],
+            "github": "https://github.com/Ayush-Shah7",
+            "link": "https://github.com/Ayush-Shah7/Guess_word.git"
+        },
+        {
+            "title":"Calculator",
+            "image": "./images/project_2.png",
+            "desc": "This was my first ever react app. I am looking forward to create more. As you can see this is a calculator. A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.",
+            "skills": ["React", "Javascript", "CSS"],
+            "github": "https://github.com/Ayush-Shah7",
+            "link": "/"
+        }
+    ]
+}
